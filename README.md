@@ -1,7 +1,5 @@
 # Simple Rest Service
 
----
-
 ## Code Excercise for postion with [Spectrum](https://jobs.spectrum.com/)
 
 ### Exercise Specification
